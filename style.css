@@ -1,0 +1,93 @@
+.masthead{
+	background-image: url(img/bg-masthead.jpg);
+	background-size: 100% 100%;
+	height: 500px;
+ }
+h1{
+	text-align: center;
+ 	padding-top: 180px;
+}
+h5{
+	text-align: center;	
+	padding-bottom: 10px;
+}
+.boton1{
+	display: inline-block;
+	margin-left: 430px;
+	background-color: #1d809f;
+	padding: 8px 10px;
+	border: none;
+	outline: none;
+	color:white;
+	font-size: 9pt;
+	border-radius: 5px;
+}
+.segundo{
+	text-align: center;
+	padding-top: 50px;
+	height: 200px;
+}
+.boton2{
+	display: inline-block;
+	background-color: #000000;
+	margin-top: 20px;
+	padding: 8px 10px;
+	border: none;
+	outline: none;
+	color:white;
+	font-size: 9pt;
+	border-radius: 5px;
+}
+.tercero{
+	height: 400px;
+	background-color: #1d809f;
+	text-align: center;
+	color: white;
+	padding-top: 70px;
+}
+
+.iconos{
+	padding-top: 50px;
+	font-size: 8pt;
+}
+.tijeras{
+	background-image: url(img/bg-callout.jpg);
+	background-size: 100% 100%;
+	height: 550px;
+}
+.quinto{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.sexto{
+	height: 250px;
+	background-color: #1d809f;
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.boton3{
+	background-color: white;
+	padding: 8px 10px;
+	margin-top: 20px;
+	border: none;
+	outline: none;
+	color: black;
+	font-size: 8pt;
+	border-radius: 5px;
+}
+.boton4{
+	background-color: black;
+	padding: 8px 10px;
+	margin-top: 20px;
+	border: none;
+	outline: none;
+	color: white;
+	font-size: 8pt;
+	border-radius: 5px;
+}
+
+
+
